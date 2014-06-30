@@ -1,5 +1,5 @@
 //
-//  BCFViewController.h
+//  BCFTableViewController.h
 //  UITableViewControllerChallengeSolution
 //
 //  Created by Bridget on 6/30/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BCFViewController : UIViewController
+@interface BCFTableViewController : UITableViewController
 
 @end
